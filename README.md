@@ -40,18 +40,18 @@ country can be solved.
 
 ## Non-functional Requirements:
 
-Few non-functional requirements of this system is given below –\
-* Users cannot change any information about vaccines \
-* The system will maintain correctness and integrity of the information \
-* The system will maintain the usability in order to satisfy maximum number of users\
+Few non-functional requirements of this system is given below –
+* Users cannot change any information about vaccines 
+* The system will maintain correctness and integrity of the information 
+* The system will maintain the usability in order to satisfy maximum number of users
 * Provides user’s data security
 
 ## Functional Requirements:
 
-Few functional requirements of this system is given below –\
-* Users can log in and check their information whenever they like. Users can include patients/applicants, i.e., those who wish to apply for a certain vaccination plan. Users will first be approved for the registration and can proceed to use the app.\
-* Admins can also log in and check their information. Admins of the system oversee all operations and maintain the correctness of information.\
-* Users can schedule appointments, cancel appointments or reschedule appointments in their preferred location. They can also check available time and available slots for the vaccination. \
+Few functional requirements of this system is given below –
+* Users can log in and check their information whenever they like. Users can include patients/applicants, i.e., those who wish to apply for a certain vaccination plan. Users will first be approved for the registration and can proceed to use the app.
+* Admins can also log in and check their information. Admins of the system oversee all operations and maintain the correctness of information.
+* Users can schedule appointments, cancel appointments or reschedule appointments in their preferred location. They can also check available time and available slots for the vaccination. 
 * The system will display all information about the vaccines. In the vaccine information page, the user can see various information about the vaccines such as age requirements, patient’s eligibility, etc.
 
 
